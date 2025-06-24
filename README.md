@@ -11,8 +11,6 @@
 
 ### 💼 About Me
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="270" />
-
 - 🧑‍💻 I'm a **PHP Developer** with a strong passion for clean architecture and backend systems.
 - 🔍 Currently exploring: `RESTful APIs`, `Docker`, `CI/CD`, `Laravel`
 - 🔧 I love building reusable components and contributing to open source.
@@ -41,7 +39,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=martinversacode&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=martinversacode&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
