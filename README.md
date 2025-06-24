@@ -11,10 +11,13 @@
 
 ### 💼 About Me
 
-- 🛠️ PHP Developer with passion for clean architecture
-- ⚙️ Currently exploring: `RESTful APIs`, `Docker`, `CI/CD`
-- 🔭 Working on open-source tools & reusable PHP components
-- 🧠 Always learning and automating workflows
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="270" />
+
+- 🧑‍💻 I'm a **PHP Developer** with a strong passion for clean architecture and backend systems.
+- 🔍 Currently exploring: `RESTful APIs`, `Docker`, `CI/CD`, `Laravel`
+- 🔧 I love building reusable components and contributing to open source.
+- 🧠 Constantly learning, automating, and pushing code that solves real problems.
+- 📬 **Reach me on Telegram**: [@martinversa](https://t.me/martinversa)
 
 ---
 
@@ -26,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
 </p>
@@ -36,6 +41,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=martinversacode&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=martinversacode&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
@@ -43,7 +49,9 @@
 ### 🌍 Find Me On
 
 <p align="center">
-  <a href="https://t.me/martinversa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/martinversa">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
