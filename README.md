@@ -12,7 +12,7 @@
 ### 💼 About Me
 
 - 🛠️ PHP Developer with passion for clean architecture
-- ⚙️ Currently exploring: `Laravel`, `RESTful APIs`, `Docker`, `CI/CD`
+- ⚙️ Currently exploring: `RESTful APIs`, `Docker`, `CI/CD`
 - 🔭 Working on open-source tools & reusable PHP components
 - 🧠 Always learning and automating workflows
 
@@ -22,7 +22,6 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="45" title="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
@@ -37,7 +36,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=martinversacode&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=martinversacode&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
