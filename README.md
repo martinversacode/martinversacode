@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <span style="color:#00ffff">Hello there, I'm Martin Versa</span>
+  Hello there, I'm <span style="color:#00ffff">Martin Versa</span>
 </h1>
 
 <p align="center">
@@ -9,44 +9,43 @@
 
 ---
 
-### 🚀 About Me
+### 💼 About Me
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" />
-
-- 🛠️ **PHP Developer** with a strong passion for clean architecture & backend engineering  
-- ⚙️ Currently exploring: `RESTful APIs`, `Docker`, `CI/CD`, `Laravel`  
-- 🔭 Building open-source tools & reusable components  
-- 🧠 Forever learning, scripting, and automating stuff that matters  
+- 🛠️ PHP Developer with passion for clean architecture
+- ⚙️ Currently exploring: `RESTful APIs`, `Docker`, `CI/CD`
+- 🔭 Working on open-source tools & reusable PHP components
+- 🧠 Always learning and automating workflows
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
 </p>
 
 ---
 
-### 🌍 Connect with Me
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=martinversacode&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+---
+
+### 🌍 Find Me On
 
 <p align="center">
-  <a href="https://t.me/martinversa">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <a href="https://t.me/martinversa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧠 Favorite Quote
-
-<blockquote align="center">
-  <i>“Talk is cheap. Show me the code.”</i><br>
-  — Linus Torvalds
-</blockquote>
+> 🧠 *“Talk is cheap. Show me the code.”* – Linus Torvalds
